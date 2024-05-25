@@ -1,0 +1,6 @@
+github.com/evenyosua18/typedecoder v1.0.2 h1:PfO97FHah07bUtuHP/TP57AaZULPMk0Y0/OlG7wxoP8=
+github.com/evenyosua18/typedecoder v1.0.2/go.mod h1:hlPW174fCV3lmXBcUmoVeEkimlKyfL2i+xqAC40mpVk=
+github.com/evenyosua18/uuid-decoder v1.0.0 h1:L3pUgAVn79q6quQSbbvqkQbnFMeyJ8Md71TiYpzZZZc=
+github.com/evenyosua18/uuid-decoder v1.0.0/go.mod h1:c/DLv/ozBssc8Er+UYR7y857cCr2gN1ubZrlbSY9sd0=
+github.com/google/uuid v1.6.0 h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=
+github.com/google/uuid v1.6.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
